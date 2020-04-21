@@ -1,2 +1,3 @@
 red, blue, and black are cool colors
 maybe green is also cool
+but turquoise is both green and blue
